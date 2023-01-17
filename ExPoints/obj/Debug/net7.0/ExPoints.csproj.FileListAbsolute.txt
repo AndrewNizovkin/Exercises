@@ -1,0 +1,15 @@
+D:\GeekBrains\CSExercises\ExPoints\bin\Debug\net7.0\ExPoints.exe
+D:\GeekBrains\CSExercises\ExPoints\bin\Debug\net7.0\ExPoints.deps.json
+D:\GeekBrains\CSExercises\ExPoints\bin\Debug\net7.0\ExPoints.runtimeconfig.json
+D:\GeekBrains\CSExercises\ExPoints\bin\Debug\net7.0\ExPoints.dll
+D:\GeekBrains\CSExercises\ExPoints\bin\Debug\net7.0\ExPoints.pdb
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.csproj.AssemblyReference.cache
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.AssemblyInfoInputs.cache
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.AssemblyInfo.cs
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.csproj.CoreCompileInputs.cache
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.dll
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\refint\ExPoints.dll
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.pdb
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ExPoints.genruntimeconfig.cache
+D:\GeekBrains\CSExercises\ExPoints\obj\Debug\net7.0\ref\ExPoints.dll

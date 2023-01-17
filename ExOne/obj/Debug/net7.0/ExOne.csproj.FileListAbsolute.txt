@@ -1,0 +1,15 @@
+D:\GeekBrains\CSExercises\ExOne\bin\Debug\net7.0\ExOne.exe
+D:\GeekBrains\CSExercises\ExOne\bin\Debug\net7.0\ExOne.deps.json
+D:\GeekBrains\CSExercises\ExOne\bin\Debug\net7.0\ExOne.runtimeconfig.json
+D:\GeekBrains\CSExercises\ExOne\bin\Debug\net7.0\ExOne.dll
+D:\GeekBrains\CSExercises\ExOne\bin\Debug\net7.0\ExOne.pdb
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.csproj.AssemblyReference.cache
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.AssemblyInfoInputs.cache
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.AssemblyInfo.cs
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.csproj.CoreCompileInputs.cache
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.dll
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\refint\ExOne.dll
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.pdb
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ExOne.genruntimeconfig.cache
+D:\GeekBrains\CSExercises\ExOne\obj\Debug\net7.0\ref\ExOne.dll

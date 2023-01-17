@@ -1,0 +1,15 @@
+D:\GeekBrains\CSExercises\ExIntToBinary\bin\Debug\net7.0\ExIntToBinary.exe
+D:\GeekBrains\CSExercises\ExIntToBinary\bin\Debug\net7.0\ExIntToBinary.deps.json
+D:\GeekBrains\CSExercises\ExIntToBinary\bin\Debug\net7.0\ExIntToBinary.runtimeconfig.json
+D:\GeekBrains\CSExercises\ExIntToBinary\bin\Debug\net7.0\ExIntToBinary.dll
+D:\GeekBrains\CSExercises\ExIntToBinary\bin\Debug\net7.0\ExIntToBinary.pdb
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.csproj.AssemblyReference.cache
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.AssemblyInfoInputs.cache
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.AssemblyInfo.cs
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.csproj.CoreCompileInputs.cache
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.dll
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\refint\ExIntToBinary.dll
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.pdb
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ExIntToBinary.genruntimeconfig.cache
+D:\GeekBrains\CSExercises\ExIntToBinary\obj\Debug\net7.0\ref\ExIntToBinary.dll
